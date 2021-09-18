@@ -1,0 +1,8 @@
+// Fill out your copyright notice in the Description page of Project Settings.
+
+
+#include "ProjectGameModeBase.h"
+
+void AProjectGameModeBase::PawnKilled(APawn* PawnKilled)
+{
+}
